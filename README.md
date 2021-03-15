@@ -5,7 +5,7 @@
 </h1>
 
  <h3 align="center">
-<a href="https://luvy.vercel.app"> 🚀 Acessar a demonstração do Relógio</a></h3>
+<a href="https://relogio.vercel.app/"> 🚀 Acessar a demonstração do Relógio</a></h3>
 
 
 
